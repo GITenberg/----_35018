@@ -1,0 +1,41 @@
+_repo: '----_35018'
+_version: 0.1.0
+alternative_title:
+- The Nebuly Coat. Japanese
+- Kumogata monsho
+contributor:
+  translator:
+    agent_name: Hayashi, Kiyotoshi
+    alias: 林清俊
+    gutenberg_agent_id: '36139'
+    url: http://www.gutenberg.org/2009/agents/36139
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Falkner, John Meade
+    alias: Falkner, J. Meade (John Meade)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '3660'
+    url: http://www.gutenberg.org/2009/agents/3660
+    wikipedia: http://en.wikipedia.org/wiki/J._Meade_Falkner
+description: 'Translation of: The Nebuly Coat'
+gutenberg_issued: '2011-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35018'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Church architecture -- Conservation and restoration -- Fiction'
+- !lcsh 'Architects -- Fiction'
+- !lcsh 'Heraldry -- Fiction'
+- !lcsh 'Dorset (England) -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+title: 雲形紋章
+url: http://www.gutenberg.org/ebooks/35018
