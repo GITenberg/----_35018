@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3660
     wikipedia: http://en.wikipedia.org/wiki/J._Meade_Falkner
 description: 'Translation of: The Nebuly Coat'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35018#----
 gutenberg_issued: '2011-01-20'
 gutenberg_type: Text
 identifiers:
